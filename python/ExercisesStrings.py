@@ -1,4 +1,4 @@
-#isLower is built into python😦
+ #isLower is built into python😦
 import Terry
 def reverse(input):
     output=""
